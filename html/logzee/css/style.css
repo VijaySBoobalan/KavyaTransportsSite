@@ -379,7 +379,7 @@ h2.h2-xl { font-size: 1.5rem; }     /* 24px */
     line-height: 1.2;
 }
 .blog-warp h4 a:hover{
-    color: #ff3514;
+    color: #00a8f0;
 }
 .meta-box{
     margin-bottom: 15px;
@@ -403,7 +403,7 @@ h2.h2-xl { font-size: 1.5rem; }     /* 24px */
     margin-right: 25px;
 }
 .post-text a{
-    color: #ff3514;
+    color: #00a8f0;
 }
 .comment-box{
     font-size: 0.75rem;

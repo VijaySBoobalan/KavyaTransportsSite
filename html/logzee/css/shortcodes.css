@@ -7,6 +7,10 @@
 .txt-orange{
 	color: #ff3514;
 }
+
+.txt-kavya-blue{
+	color: #00a8f0;
+}
 .txt-ligt-gray{
 	color: #424242;
 }
@@ -215,6 +219,10 @@
 .link-oragne{
 	color: #ff3514;
 }
+
+.link-kavya-blue{
+	color: #00a8f0;
+}
 .link-blue {
 	color: #06163a;
 }
@@ -225,6 +233,10 @@
 	color: #FFF;
 }
 .link-oragne:hover {
+	color: #06163a;
+}
+
+.link-kavya-blue:hover {
 	color: #06163a;
 }
 .link-blue:hover {
@@ -1277,7 +1289,7 @@
 .style-one cite{
 	font-size: 0.875rem;
 	font-style: normal;
-	color: rgb(255, 53, 20);
+	color: #00a8f0;
 	font-weight: 600;
 	margin-top: 15px;
 	display: block;
@@ -1300,7 +1312,7 @@
 }
 .counter-style-1 span {
 	font-size: 2.25rem;
-	color: #ff3514;
+	color: #00a8f0;
 	font-weight: 700;
 }
 
